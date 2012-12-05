@@ -1,0 +1,5 @@
+# Mac OS X useless file
+.DS_Store
+
+# Espresso project file
+.esproj
